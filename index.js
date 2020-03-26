@@ -111,10 +111,10 @@ function Baby(name, age, favoriteToy) {
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. function call
+  2. implicit binding
+  3. explicit binding
+  4. new binding
 */
 
 
